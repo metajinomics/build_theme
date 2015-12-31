@@ -18,17 +18,16 @@ You can find the source code for Jekyll at
 <div class="panel panel-warning">
   <div class="panel-heading">
     
-    <h4 class="panel-title"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>Panel title</h4>
+    <h4 class="panel-title"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> Learning Objectives </h4>
   </div>
   <div class="panel-body">
     Panel content
+    *   Go through the modify-add-commit cycle for single and multiple files.
+    *   Explain where information is stored at each stage of Git commit workflow.
   </div>
 </div>
 
-> ## Learning Objectives {.objectives}
-> 
-> *   Go through the modify-add-commit cycle for single and multiple files.
-> *   Explain where information is stored at each stage of Git commit workflow.
+
 
 Let's create a file called `mars.txt` that contains some notes
 about the Red Planet's suitability as a base.
@@ -36,15 +35,7 @@ about the Red Planet's suitability as a base.
 you can use whatever editor you like.
 In particular, this does not have to be the `core.editor` you set globally earlier.)
 
-~~~ {.bash}
-$ nano mars.txt
-~~~
 
-Type the text below into the `mars.txt` file:
-
-~~~ {.output}
-Cold and dry, but everything is my favorite color
-~~~
 
 `mars.txt` now contains a single line, which we can see by running:
 
