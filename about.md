@@ -47,3 +47,7 @@ Cold and dry, but everything is my favorite color
 ~~~
 
 `mars.txt` now contains a single line, which we can see by running:
+
+~~~
+Cold and dry, but everything is my favorite color
+~~~
