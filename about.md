@@ -17,8 +17,8 @@ You can find the source code for Jekyll at
 
 <div class="panel panel-warning">
   <div class="panel-heading">
-    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
-    <h4 class="panel-title">Panel title</h4>
+    
+    <h4 class="panel-title"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>Panel title</h4>
   </div>
   <div class="panel-body">
     Panel content
