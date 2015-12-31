@@ -24,3 +24,26 @@ You can find the source code for Jekyll at
     Panel content
   </div>
 </div>
+
+> ## Learning Objectives {.objectives}
+> 
+> *   Go through the modify-add-commit cycle for single and multiple files.
+> *   Explain where information is stored at each stage of Git commit workflow.
+
+Let's create a file called `mars.txt` that contains some notes
+about the Red Planet's suitability as a base.
+(We'll use `nano` to edit the file;
+you can use whatever editor you like.
+In particular, this does not have to be the `core.editor` you set globally earlier.)
+
+~~~ {.bash}
+$ nano mars.txt
+~~~
+
+Type the text below into the `mars.txt` file:
+
+~~~ {.output}
+Cold and dry, but everything is my favorite color
+~~~
+
+`mars.txt` now contains a single line, which we can see by running:
